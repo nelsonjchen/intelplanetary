@@ -1,0 +1,1437 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   NVIDIA
+    VRAM:     8010 MB
+    Driver:   30.0.14.7111
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\AmplifyBloom.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\AmplifyBloom.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\ch.sycoforge.Decal.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\ch.sycoforge.Decal.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Rewired_Core.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Rewired_Core.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Rewired_Windows_Lib.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\Rewired_Windows_Lib.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\TextMeshPro-1.0.55.56.0b10.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\TextMeshPro-1.0.55.56.0b10.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\LumenWorks.Framework.IO.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\LumenWorks.Framework.IO.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.758 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 144Hz; virtual: 2560x1440 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 3.884200 ms
+Non platform assembly: data-00000000144E0050 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Interplanetary Enhanced Edition/Interplanetary_Data/Mono/data-00000000144E0050.dll
+Non platform assembly: data-00000000144EBE60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Interplanetary Enhanced Edition/Interplanetary_Data/Mono/data-00000000144EBE60.dll
+Non platform assembly: data-0000000015139040 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Interplanetary Enhanced Edition/Interplanetary_Data/Mono/data-0000000015139040.dll
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_4.dll.
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\System.Xml.dll (this message is harmless)
+ApplicationSettings | Saved settings to file
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HalloweenManager | The next Halloween events starts in [ 114 days ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading data opt-out preferences from PlayerPrefs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Requesting data opt-out preferences from https://data-optout-service.uca.cloud.unity3d.com/player/opt_out?appid=70dda2ca-1d96-47d8-874c-f99632f5ed34&userid=b740e0e9da9290d469bc78f0af076d18&deviceid=5923fab161dff182b612610af2017b56e3e579db
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 8230 -> priority: 1 
+  Thread -> id: 6f6c -> priority: 1 
+  Thread -> id: 156c -> priority: 1 
+  Thread -> id: 3a3c -> priority: 1 
+  Thread -> id: 790 -> priority: 1 
+  Thread -> id: 479c -> priority: 1 
+  Thread -> id: 2110 -> priority: 1 
+  Thread -> id: 558c -> priority: 1 
+Opt-out preferences successfully retrieved, applied and saved:
+{"optOut":false,"analyticsEnabled":true,"deviceStatsEnabled":true,"limitUserTracking":false,"performanceReportingEnabled":true}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HalloweenManager | Halloween Mode [ False ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Interplanetary Enhanced Edition\Interplanetary_Data\Managed\System.Configuration.dll (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Interplanetary Enhanced Edition/Interplanetary_Data/Mono/libc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Interplanetary Enhanced Edition/Interplanetary_Data/Mono/.\libc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Interplanetary Enhanced Edition/Interplanetary_Data/Mono/libc
+System.TypeInitializationException: An exception was thrown by the type initializer for Mono.CSharp.CSharpCodeCompiler ---> System.IO.FileNotFoundException: Windows mono path not found: C:\Program Files (x86)\Steam\steamapps\mono\mono\mini\mono.exe
+  at Mono.CSharp.CSharpCodeCompiler..cctor () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at Microsoft.CSharp.CSharpCodeProvider.CreateCompiler () [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+Current controller type [ Keyboard And Mouse ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiscordRichPresenceModule | connected to crazysim#7797: 202585503466258432
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiscordRichPresenceModule | Initialization state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Initialization finished
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InitializationSceneManager | Finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ Mainmenu ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MainmenuSceneManager | Halloween Mode [ False ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | Steam Overlay has been activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | Steam Overlay has been closed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PhotonNetworkManager | Connecting to master lobby using version [ 1.55.2090 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ InOnlineLobby ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UserSettingsManager | Saved settings to file...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UserSettingsManager | Saved settings to file...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+General Options - Turn time is set to [0]
+General Options - Cities amount is set to [5] with Dropdown value [0]
+General Options - Planet material is set to [100000]
+General Options - Super weapon limit is set to [True]
+General Options - Player coloured shots is set to [False]
+General Options - Player see shadow buildings is set to [True]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Universe Options - Planet size is set to [0 (Normal)]
+Universe Options - Gravity is set to [0 (Normal)]
+Universe Options - Planet speed is set to [0 (Normal)]
+Universe Options - Player orbit directions is set to [2 (Opposite)]
+Universe Options - Elliptic orbit is set to [0 (All Round)]
+Universe Options - Orbit angles is set to [0 (Standard)]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Feature Options - Railguns [True]
+Feature Options - Coilcannon [True]
+Feature Options - Missiles [True]
+Feature Options - NuclearMissiles [True]
+Feature Options - Lasers [True]
+Feature Options - Asteroid Diversion [True]
+Feature Options - MIRV [True]
+Feature Options - Solar Lasers [True]
+Feature Options - Defenses [True]
+Feature Options - Intelligence [True]
+Feature Options - Upgrades [True]
+Feature Options - Projects [True]
+Feature Options - Tech Tree [True]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Planetary Seed [0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+General Options - Turn time is set to [0]
+General Options - Cities amount is set to [5] with Dropdown value [0]
+General Options - Planet material is set to [100000]
+General Options - Super weapon limit is set to [True]
+General Options - Player coloured shots is set to [False]
+General Options - Player see shadow buildings is set to [True]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Universe Options - Planet size is set to [0 (Normal)]
+Universe Options - Gravity is set to [0 (Normal)]
+Universe Options - Planet speed is set to [0 (Normal)]
+Universe Options - Player orbit directions is set to [2 (Opposite)]
+Universe Options - Elliptic orbit is set to [0 (All Round)]
+Universe Options - Orbit angles is set to [0 (Standard)]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Feature Options - Railguns [True]
+Feature Options - Coilcannon [True]
+Feature Options - Missiles [True]
+Feature Options - NuclearMissiles [True]
+Feature Options - Lasers [True]
+Feature Options - Asteroid Diversion [True]
+Feature Options - MIRV [True]
+Feature Options - Solar Lasers [True]
+Feature Options - Defenses [True]
+Feature Options - Intelligence [True]
+Feature Options - Upgrades [True]
+Feature Options - Projects [True]
+Feature Options - Tech Tree [True]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Planetary Seed [0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | Photon room created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | Creating steam lobby...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | photonRoomJoinedMessage()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | Initialization [ Online ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameLobbyScreen | LoadGameLobby: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameroomPlayerHandler | Adding new player to slot [ 0 ] with name [ crazysim ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | Lobby successfully created with lobby id [ 109775240919782371 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | SteamLobby Created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | Settings RoomName: testt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | SteamLobby Properities Changed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | SteamLobby Properities Changed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameroomPlayerHandler | Adding new player to slot [ 1 ] with name [ Wump ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | SteamLobby Properities Changed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameLobbyScreen | gameStartValuesMessage( ).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ PlayingOnline ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSessionManager | Starting game session.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSceneManager | Object pooler ready, continuing with initialization!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Planets to generate [ 11 ], GUID Collection size [ 25 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TODO, city names need to be processed like any other data files, processed like this will no work with mods!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CityNameCollection | Generated [ 10 ] city names.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager InitializeManagerAfterSceneLoad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCityGenerator | Generating starting cities for the player [ crazysim ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCityGenerator | Generating starting cities for the player [ Wump ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyone is ready for starting the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Round Start [ 0 ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager | TurnStartInit()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: PlayerTurn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 0 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All local human players have done their turn, waiting till AI players are ready!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 1 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyones turn is done! Waiting for ai actions to be completed..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingAIExecution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyone has done their turn, starting end of turn message sending!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 0 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 1 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players EOTData messages received! This is the point of no return. (No reconnects until next turn)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: SyncPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All EOT Data processed. Reporting ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 0 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 1 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players ready for actionphase results messages received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Players alive after actionphase [ 2 ] in turn [ 1 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase simulated! Duration [ 0 ] Total Events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Successfully simulated actionphase! Sending results to others and reporting ready for actionphase.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | All playing players readyForActionphase messages received! This is the point of no return.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Start Actionphase!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Starting Actionphase for turn [ 0 ], lenght [ 0 ] frames, events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: DisplayActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Original Size [ 0.56 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Compressed Size [ 0.328 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase ended!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: RoundStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Round Start [ 1 ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager | TurnStartInit()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Autosave()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SaveManager | Creating save snapshot for reconnect..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: PlayerTurn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music [ Mainmenu_1 ] Stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | photonRoomLeftMessage()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | LeaveSteamLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | photonDisconnectMessage() , CurrentScene: GameScene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ScreenManager | Screen with name [ LoadingScreen ] was already open.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSessionManager | Ending game session.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ Mainmenu ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MainmenuSceneManager | Halloween Mode [ False ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music [ Overview_1 ] Stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PhotonNetworkManager | Connecting to master lobby using version [ 1.55.2090 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ InOnlineLobby ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UserSettingsManager | Saved settings to file...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UserSettingsManager | Saved settings to file...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | Photon room created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | Creating steam lobby...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | photonRoomJoinedMessage()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | Initialization [ Online ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameLobbyScreen | LoadGameLobby: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameroomPlayerHandler | Adding new player to slot [ 0 ] with name [ crazysim ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | Lobby successfully created with lobby id [ 109775240919789779 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | SteamLobby Created!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | Settings RoomName: Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | SteamLobby Properities Changed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | SteamLobby Properities Changed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameroomPlayerHandler | Adding new player to slot [ 1 ] with name [ Pris ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager | SteamLobby Properities Changed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+General Options - Turn time is set to [60]
+General Options - Cities amount is set to [5] with Dropdown value [0]
+General Options - Planet material is set to [100000]
+General Options - Super weapon limit is set to [True]
+General Options - Player coloured shots is set to [False]
+General Options - Player see shadow buildings is set to [True]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Universe Options - Planet size is set to [0 (Normal)]
+Universe Options - Gravity is set to [0 (Normal)]
+Universe Options - Planet speed is set to [0 (Normal)]
+Universe Options - Player orbit directions is set to [2 (Opposite)]
+Universe Options - Elliptic orbit is set to [0 (All Round)]
+Universe Options - Orbit angles is set to [0 (Standard)]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Feature Options - Railguns [True]
+Feature Options - Coilcannon [True]
+Feature Options - Missiles [True]
+Feature Options - NuclearMissiles [True]
+Feature Options - Lasers [True]
+Feature Options - Asteroid Diversion [True]
+Feature Options - MIRV [True]
+Feature Options - Solar Lasers [True]
+Feature Options - Defenses [True]
+Feature Options - Intelligence [True]
+Feature Options - Upgrades [True]
+Feature Options - Projects [True]
+Feature Options - Tech Tree [True]
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Planetary Seed [0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameLobbyScreen | gameStartValuesMessage( ).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ HostingRoom ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RichPresenceManager | Settings state [ PlayingOnline ]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSessionManager | Starting game session.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSceneManager | Object pooler ready, continuing with initialization!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Planets to generate [ 11 ], GUID Collection size [ 25 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TODO, city names need to be processed like any other data files, processed like this will no work with mods!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CityNameCollection | Generated [ 10 ] city names.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager InitializeManagerAfterSceneLoad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCityGenerator | Generating starting cities for the player [ crazysim ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCityGenerator | Generating starting cities for the player [ Pris ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyone is ready for starting the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Round Start [ 0 ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager | TurnStartInit()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: PlayerTurn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 0 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All local human players have done their turn, waiting till AI players are ready!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 1 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyones turn is done! Waiting for ai actions to be completed..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingAIExecution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyone has done their turn, starting end of turn message sending!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 0 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 1 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players EOTData messages received! This is the point of no return. (No reconnects until next turn)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: SyncPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All EOT Data processed. Reporting ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 0 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 1 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players ready for actionphase results messages received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Players alive after actionphase [ 2 ] in turn [ 1 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase simulated! Duration [ 0 ] Total Events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Successfully simulated actionphase! Sending results to others and reporting ready for actionphase.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | All playing players readyForActionphase messages received! This is the point of no return.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Start Actionphase!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Starting Actionphase for turn [ 0 ], lenght [ 0 ] frames, events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: DisplayActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Original Size [ 0.56 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Compressed Size [ 0.328 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase ended!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: RoundStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Round Start [ 1 ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager | TurnStartInit()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Autosave()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SaveManager | Creating save snapshot for reconnect..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: PlayerTurn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music [ Mainmenu_1 ] Stopped.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 0 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All local human players have done their turn, waiting till AI players are ready!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 1 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyones turn is done! Waiting for ai actions to be completed..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingAIExecution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Local AI Player [ Pris ] ended turn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyones turn is done! Waiting for ai actions to be completed..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingAIExecution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyone has done their turn, starting end of turn message sending!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 0 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 1 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players EOTData messages received! This is the point of no return. (No reconnects until next turn)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: SyncPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All EOT Data processed. Reporting ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 0 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 1 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players ready for actionphase results messages received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Players alive after actionphase [ 2 ] in turn [ 2 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase simulated! Duration [ 355 ] Total Events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Successfully simulated actionphase! Sending results to others and reporting ready for actionphase.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | All playing players readyForActionphase messages received! This is the point of no return.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Start Actionphase!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Starting Actionphase for turn [ 1 ], lenght [ 355 ] frames, events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: DisplayActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Original Size [ 0.562 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Compressed Size [ 0.34 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase ended!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: RoundStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Round Start [ 2 ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager | TurnStartInit()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Autosave()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SaveManager | Creating save snapshot for reconnect..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: PlayerTurn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 0 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All local human players have done their turn, waiting till AI players are ready!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 1 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyones turn is done! Waiting for ai actions to be completed..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingAIExecution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Local AI Player [ Pris ] ended turn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyones turn is done! Waiting for ai actions to be completed..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingAIExecution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyone has done their turn, starting end of turn message sending!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 0 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 1 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players EOTData messages received! This is the point of no return. (No reconnects until next turn)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: SyncPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All EOT Data processed. Reporting ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 0 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 1 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players ready for actionphase results messages received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Players alive after actionphase [ 2 ] in turn [ 3 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase simulated! Duration [ 355 ] Total Events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Successfully simulated actionphase! Sending results to others and reporting ready for actionphase.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | All playing players readyForActionphase messages received! This is the point of no return.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Start Actionphase!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Starting Actionphase for turn [ 2 ], lenght [ 355 ] frames, events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: DisplayActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Original Size [ 0.564 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Compressed Size [ 0.34 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase ended!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: RoundStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Round Start [ 3 ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager | TurnStartInit()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Autosave()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SaveManager | Creating save snapshot for reconnect..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: PlayerTurn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 0 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All local human players have done their turn, waiting till AI players are ready!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | PlayerNetworkID [ 1 ] has changed end turn status to [ True ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyones turn is done! Waiting for ai actions to be completed..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingAIExecution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Local AI Player [ Pris ] ended turn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyones turn is done! Waiting for ai actions to be completed..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingAIExecution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Everyone has done their turn, starting end of turn message sending!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 0 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | PlayerNetworkID [ 1 ] EOTData received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players EOTData messages received! This is the point of no return. (No reconnects until next turn)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: SyncPlayerData
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All EOT Data processed. Reporting ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: WaitingActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 0 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gameroom | PlayerNetworkID [ 1 ] is ready for actionphase results!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameRoom | All playing players ready for actionphase results messages received!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Players alive after actionphase [ 2 ] in turn [ 4 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase simulated! Duration [ 355 ] Total Events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Successfully simulated actionphase! Sending results to others and reporting ready for actionphase.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | All playing players readyForActionphase messages received! This is the point of no return.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnlineGameroomMessageHandler | Start Actionphase!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Starting Actionphase for turn [ 3 ], lenght [ 355 ] frames, events [ 0 ].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: DisplayActionphase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Original Size [ 0.565 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Debug_CheckNetworkPacketSize Compressed Size [ 0.344 ] kilobytes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ActionphaseManager | Actionphase ended!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: RoundStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Round Start [ 4 ] !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager | TurnStartInit()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager | Autosave()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SaveManager | Creating save snapshot for reconnect..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ChangeGameManagerStatus: PlayerTurn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetSteamLobbyJoinState: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamManager | SetRoomMaxPlayerAmount: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
